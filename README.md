@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @marco-racanelli
+- 👋 Hi, I’m Marco Racanelli
+- 💻 I'm a data analyst and the co-founder of a Customer Experience consultancy firm (www.pressureconsulting.tech)
 - 👀 I’m interested in data analysis and visualisation.
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on an impact-driven project
