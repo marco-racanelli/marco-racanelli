@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marco-racanelli
+- 👀 I’m interested in data analysis and visualisation.
+- 🌱 I’m currently learning python and SQL
+- 💞️ I’m looking to collaborate on an impact-driven project
+- 📫 How to reach me: https://www.linkedin.com/in/marco-racanelli/ | marco.racanelli@tutanota.com
